@@ -28,5 +28,3 @@ A deep-dive business analysis and valuation of three major Indian pharmaceutical
 
 > All three stocks trade at a significant premium to DCF estimates, reflecting market expectations of sustained long-term growth.
 
-## Authors
-Aman Kapadia
